@@ -31,8 +31,11 @@ I obtained my B.Eng. in Computer Science from Northeastern University (China).
 
 # Collaboration Opportunities
 I welcome discussions regarding:
+
 🔬 Academic collaborations in CMR methodology/clinical applications
+
 💼 Research positions (available from July 2026)
+
 📚 Joint publication opportunities
 
 # Contact
