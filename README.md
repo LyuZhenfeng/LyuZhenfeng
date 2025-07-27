@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Research Focus & Education
+### Research Focus & Education
 I am currently pursuing a Ph.D. in Biomedical Engineering at ShanghaiTech University under the supervision of Prof. H. Qi, with an expected graduation in June 2026. My research specializes in cardiac magnetic resonance (CMR) quantitative imaging, including:
 - Simultaneous multi-parameter CMR quantification
 - High-resolution CMR quantitative imaging
@@ -24,12 +24,12 @@ I am currently pursuing a Ph.D. in Biomedical Engineering at ShanghaiTech Univer
 
 I obtained my B.Eng. in Computer Science from Northeastern University (China).
 
-# Honors & Achievements
+### Honors & Achievements
 - Gold Merit Award, ISMRM Annual Meeting (2025)
 - National Scholarship for Doctoral Candidates (2024)
 - First-author publications: 1 full paper in Journal of Cardiovascular Magnetic Resonance (JCMR), 6 ISMRM abstracts (4 Oral, 1 Power Pitch, 1 Digital Poster)
 
-# Collaboration Opportunities
+### Collaboration Opportunities
 I welcome discussions regarding:
 
 🔬 Academic collaborations in CMR methodology/clinical applications
@@ -38,5 +38,5 @@ I welcome discussions regarding:
 
 📚 Joint publication opportunities
 
-# Contact
+### Contact
 📧 lvzhf@shanghaitech.edu.cn
