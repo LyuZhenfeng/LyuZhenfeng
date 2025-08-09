@@ -25,5 +25,5 @@ I was awarded the Gold Award at the International Society for Magnetic Resonance
 ### Honors & Achievements
 - ISMRM Summa Cum Laude Merit Award (2025)
 - National Scholarship for Doctoral Candidates (2024)
-- First-author publications: 1 full paper in Journal of Cardiovascular Magnetic Resonance (JCMR), 6 ISMRM abstracts (4 Oral, 1 Power Pitch, 1 Digital Poster)
+- First-author publications: 1 full paper in Journal of Cardiovascular Magnetic Resonance (JCMR), 1 papaer is under review, 6 ISMRM abstracts (4 Oral, 1 Power Pitch, 1 Digital Poster)
 
